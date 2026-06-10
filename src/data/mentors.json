@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "title": "Full Stack Web Developer",
+    "bio": "Passionate about building scalable web applications with 12+ years of experience in the tech industry.",
+    "expertise": ["JavaScript", "React", "Node.js", "MongoDB", "AWS"],
+    "rating": 4.9,
+    "students": 3200,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "title": "React & Frontend Specialist",
+    "bio": "Expert in modern frontend development with a focus on React, performance optimization, and user experience.",
+    "expertise": ["React", "TypeScript", "CSS", "Web Performance", "Testing"],
+    "rating": 4.8,
+    "students": 2850,
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Michael Chen",
+    "title": "Data Scientist & ML Engineer",
+    "bio": "PhD in Computer Science with expertise in machine learning, data analysis, and artificial intelligence applications.",
+    "expertise": ["Python", "Machine Learning", "Data Analysis", "TensorFlow", "Statistical Analysis"],
+    "rating": 4.9,
+    "students": 2500,
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "title": "UI/UX Design Director",
+    "bio": "Creative designer with a passion for user-centered design and digital transformation. Award-winning designer.",
+    "expertise": ["UI Design", "UX Research", "Figma", "Prototyping", "Design Systems"],
+    "rating": 4.7,
+    "students": 2100,
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Alex Rodriguez",
+    "title": "Backend & DevOps Engineer",
+    "bio": "Specializes in building robust backend systems and cloud infrastructure. 10+ years in enterprise development.",
+    "expertise": ["Node.js", "Express", "MongoDB", "Docker", "Kubernetes"],
+    "rating": 4.8,
+    "students": 2200,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 6,
+    "name": "James Wilson",
+    "title": "Mobile Development Expert",
+    "bio": "Expert in cross-platform mobile development with a track record of successful app launches on App Store and Play Store.",
+    "expertise": ["Flutter", "Dart", "React Native", "iOS", "Android"],
+    "rating": 4.7,
+    "students": 1900,
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 7,
+    "name": "Robert Kumar",
+    "title": "Cloud Infrastructure Architect",
+    "bio": "AWS Certified Solutions Architect with deep expertise in cloud infrastructure, scalability, and security.",
+    "expertise": ["AWS", "Cloud Architecture", "DevOps", "Terraform", "Security"],
+    "rating": 4.9,
+    "students": 2000,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Lisa Anderson",
+    "title": "AI & Machine Learning Researcher",
+    "bio": "PhD in AI, published researcher with expertise in deep learning, neural networks, and cutting-edge ML applications.",
+    "expertise": ["Deep Learning", "Neural Networks", "TensorFlow", "PyTorch", "NLP"],
+    "rating": 4.9,
+    "students": 2600,
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=60"
+  }
+]
